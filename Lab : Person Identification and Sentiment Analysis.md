@@ -1,9 +1,4 @@
----
-
-
----
-
-<h1 id="lab-1-person-identification-and-sentiment-analysis">Lab 1: Person Identification and Sentiment Analysis</h1>
+<h1 id="lab-1--person-identification-and-sentiment-analysis">Lab 1 : Person Identification and Sentiment Analysis</h1>
 <p>In this lab, we would utilize Amazon Rekognition to identify the person in front of a camera, that has been previously registered. In addition to that, we will stream the identified person’s emotions data to DynamoDB and analyze it. The analysis includes the person’s mood for the day and his/her mood history when captured in the camera.</p>
 <h2 id="step-1--setup-identity-using-cognito">Step 1 : Setup Identity using Cognito</h2>
 <p><strong>Note: You can skip this step if you have done it in other lab. Make sure you have the Identity Pool ID</strong><br>
