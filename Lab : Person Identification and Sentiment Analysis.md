@@ -327,7 +327,7 @@ rekognition.searchFacesByImage(params, function(err, data) {
       if(data.FaceMatches.length != 0){
           var personName = data.FaceMatches[0].Face.ExternalImageId;
           updateGreetings(personName);
-          // ----------- STEP 4.3 HERE -----------
+          // ----------- STEP 4.4 HERE -----------
       }else{
           updateGreetings(null)
       }
