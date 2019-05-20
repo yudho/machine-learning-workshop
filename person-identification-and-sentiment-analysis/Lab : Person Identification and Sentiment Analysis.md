@@ -169,7 +169,7 @@ rekognition.searchFacesByImage(params, function(err, data) {
 <strong>4.6.</strong> Open the previous file named <strong>identify.html</strong> and once again, be in front of the camera. This time, try several face expression (e.g. smile, calm, angry). Get your neighbour to join to improve quantity of the data.<br>
 <strong>4.7.</strong> Download this HTML file <a href="https://s3.amazonaws.com/aws-machinelearning-workshop/person-identification-and-sentiment-analysis/html/analyze.html">https://s3.amazonaws.com/aws-machinelearning-workshop/person-identification-and-sentiment-analysis/html/analyze.html</a><br>
 <strong>4.8.</strong> Open the file using your browser (new version of Google Chrome or Mozilla Firefox is preferred), and examine the analysis result.<br>
-<strong>4.9.</strong> You can always re-open file <strong>index.html</strong> to index new persons, capture expressions with file <strong>identify.html</strong>, and analyze it with file <strong>analyze.html</strong></p>
+<strong>4.9.</strong> You can always re-open file <strong>register.html</strong> to index new persons, capture expressions with file <strong>identify.html</strong>, and analyze it with file <strong>analyze.html</strong></p>
 <p>With this we have finished Lab 1. Of course, you can keep on improving the code and <strong>innovating</strong> :)</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
